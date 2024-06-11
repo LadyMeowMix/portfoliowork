@@ -38,3 +38,7 @@ h3 {
   line-height: 27px;
   padding: 15px 30px;
 }
+
+.container {
+  padding: 160px 20px;
+}
